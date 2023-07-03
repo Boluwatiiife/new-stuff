@@ -4,3 +4,4 @@ console.log('God bless Hashcode');
 
 let today='Monday';
 let tommorrow='Tuesday';
+let weather='sunny';
