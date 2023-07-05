@@ -1,3 +1,5 @@
+// Hashcode BackEnd Mentorship.
+
 let myMentor='Hashcode';
 let myCoMentees=['myself','liberty','Boluwatife'];
 
